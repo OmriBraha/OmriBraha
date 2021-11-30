@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmriBraha
-- 🌱 I’m currently learning BS.c in Computer Science at the Open University
-- 💞️ I’m looking to collaborate on a cool project
-- :star: Website https://obstudio.me/
+- :briefcase: Physical Designer at Intel corporation
+- 🌱 BS.c Student in Computer Science at the Open University
+- 💞️ looking to collaborate on a cool project
 - 📫 OmriBraha@gmail.com
 
 
